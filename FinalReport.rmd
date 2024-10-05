@@ -46,6 +46,12 @@ This graph makes it clear that in a study consisting of independent variables, f
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table1 <- xtabs(~infected + treatment,data=female)
+rowPerc(table1)
+colPerc(table1)
+```
+The Numerical Descriptive Results clearly show that the percentage of the group that didn't get aids is nearly 41%, while the percentage of the group that got aids is nearly 60%.
 
 ## Inferential Results
 
