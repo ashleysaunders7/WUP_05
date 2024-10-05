@@ -67,3 +67,4 @@ In total, there were three statistical tests ran and with each test we saw the p
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+We graphed results of a female focused group and found results of the probability of the differences between getting aids with the drug or the placebo. The bar graph showed that those who used the drug were more likely to get aids than those who took the placebo. Then the numerical graph performed showed that the percent of females who got aids was 20% higher than those who didn't. The three statistical test also showed evidence of females getting aids after using the drug.
